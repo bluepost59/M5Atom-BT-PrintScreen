@@ -1,5 +1,7 @@
 # M5Atom-BT-PrintScreen
-Bluetooth HIDでPrintScreenを押すデバイス
+Bluetooth HIDでPrintScreenを押すデバイス。
+
+M5StickC版→https://github.com/bluepost59/M5StickC-BT-PrintScreen
 
 # 必要要件
 * M5Atom (Lite or Matrix)
